@@ -1,0 +1,16 @@
+PODS:
+  - libpag (4.1.49)
+
+DEPENDENCIES:
+  - libpag (= 4.1.49)
+
+SPEC REPOS:
+  trunk:
+    - libpag
+
+SPEC CHECKSUMS:
+  libpag: 9788bd8a2a5fcdefed74c3cb3cdec125bb7631ce
+
+PODFILE CHECKSUM: 8944177900310721002a124196cc600422bb403d
+
+COCOAPODS: 1.11.3
